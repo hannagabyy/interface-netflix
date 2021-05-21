@@ -48,8 +48,8 @@ header nav a:hover{
 
 .filme-principal{
     font-size: 16px;
-    background:linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),url(/img/capa-house.jpg);
-    height: 400px;
+    background:linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),url(/img/capa-filme.png);
+    height: 500px;
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -89,3 +89,38 @@ header nav a:hover{
 .botao i{
     margin-right: 8px;
 }
+
+.container{
+    margin-left: 20px;
+}
+
+.filme-principal .container{
+     width: 70%;
+}
+
+.box-filme{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
+.carrosel-filmes{
+    margin-top: 10px;
+}
+
+
+.item img:hover{
+    opacity: .50;
+    cursor: pointer;
+}
+
+
+ .subtitulos{
+    margin: 10px 0;
+    padding: 10px;
+    font-size: 30px;
+    background-color: var(--vermelho);
+    border-radius:50px;
+ 
+}
+
