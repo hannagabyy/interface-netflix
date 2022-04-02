@@ -1,4 +1,11 @@
 # Cópia da Interface Netflix
+### Tecnologias usadas:
+- Html
+- Css
+- Javascript
+- Jquery
+
+### Descrição:
 Uma interface Netflix ,Porém adaptada com carroséis em Jquery dividida em animes ,filmes e séries.
 
 No destaque é permitido ver o trailer da série diretamente no youtube.
